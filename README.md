@@ -1,5 +1,5 @@
 # PHP MVC MyCustomers
-## Detalilii proiect
+## Detalii proiect
 
 Clienti firmei care au beneficiat de servicile unei semnaturi electronice.
 
